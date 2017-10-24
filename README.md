@@ -15,3 +15,5 @@ int k = atoi(argv[2]);
 /* ... */
 return 0;
 }
+
+![alt text](https://github.com/pfdinc/permutation_allpossibilities/blob/master/Screen%20Shot%202017-10-22%20at%2010.34.05%20AM.png )
