@@ -1,4 +1,4 @@
-# permutation_allpossibilities
+
 
 C++ program that, for a given n and k with 1 ≤ k ≤ n ≤ 10, outputs all the permutations
 which can be created using k out of n digets. For example, if n = 4 and k = 3, your program should
